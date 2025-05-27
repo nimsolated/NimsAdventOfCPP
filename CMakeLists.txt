@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.31)
+project(AdventOfCPP)
+
+set(CMAKE_CXX_STANDARD 23)
+
+add_executable(y2019d2 y2019d2/main.cpp)
