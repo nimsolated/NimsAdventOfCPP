@@ -4,3 +4,4 @@ project(AdventOfCPP)
 set(CMAKE_CXX_STANDARD 23)
 
 add_executable(y2019d2 y2019d2/main.cpp)
+add_executable(y2019d1 y2019d1/main.cpp)
