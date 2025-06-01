@@ -5,3 +5,5 @@ set(CMAKE_CXX_STANDARD 23)
 
 add_executable(y2019d2 y2019d2/main.cpp)
 add_executable(y2019d1 y2019d1/main.cpp)
+add_executable(y2019d3 y2019d3/main.cpp)
+add_executable(y2019d4 y2019d4/main.cpp)
